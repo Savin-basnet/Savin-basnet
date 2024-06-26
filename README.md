@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Savin-basnet
-- 👀 I’m interested in solving the real world problen through coding
+- 👀 I’m interested in solving the real world problem through coding
 - 🌱 I’m currently learning python
   
 
